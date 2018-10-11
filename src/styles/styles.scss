@@ -1,0 +1,21 @@
+@import 'variables';
+@import 'animations';
+@import 'background';
+
+
+
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,400i,500,700,900');
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: $brand-font !important;
+    background-color: $color-brand !important;
+}
+
+.not-draggable {
+    -webkit-user-drag: none;
+    user-select: none;
+}

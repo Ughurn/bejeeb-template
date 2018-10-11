@@ -1,0 +1,73 @@
+@import 'styles';
+
+
+
+#account {
+    .row {
+        height: 100vh;
+        .form {
+            background-color: $color-brand;
+            border-radius: 5px;
+            box-shadow: 0px 0px 150px 14px rgba(0, 0, 0, 0.37);
+            label {
+                color: #C7C7C7;
+                font-size: .8em;
+            }
+            input {
+                background-color: transparent;
+                padding-top: 20px;
+                padding-bottom: 20px;
+                border: 1px solid rgba(0, 0, 0, 0.295);
+                color: white;
+                font-size: .8em;
+                &:hover {
+                    border: 1px solid rgba(0, 0, 0, 0.596);
+                    
+                }
+                &:focus {
+                    box-shadow: none;
+                    border-color: $color-secondary;
+                }
+            }
+            .terms, .already {
+                p {
+                    color: #C7C7C7;
+                    font-size: .8em;
+                    a {
+                        color: #617FDE;
+                    }
+                }
+                button {
+                    background-color: #617FDE;
+                    color: white;
+                    box-shadow: none;
+                    transition: none;
+                    &:active {
+                        background-color: rgb(122, 148, 233);
+
+                    }
+                }
+            }
+            .social-auth {
+                a {
+                    margin-top: 10px;
+                    display: block;
+                    color: white;
+                    border-radius: 4px;
+                    text-decoration: none;
+                    padding: 10px;
+                    &:nth-child(1) {
+                        background-color: #1649B4;
+                    }
+                    &:nth-child(2) {
+                        background-color: #1DA1F2;
+                    }
+                    img {
+                        padding-right: 10px;
+                    }
+                }
+            }
+        }
+    }
+    
+}

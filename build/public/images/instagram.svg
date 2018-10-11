@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 17.849 17.806">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        fill: lightgrey;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <path id="Clip_2" data-name="Clip 2" class="cls-1" d="M0,0V17.806H17.849V0Z" transform="translate(0 0.017)"/>
+    </clipPath>
+  </defs>
+  <g id="instagram" transform="translate(-12 -11.044)">
+    <g id="instagram-2" data-name="instagram" transform="translate(12 11.026)">
+      <path id="Clip_2-2" data-name="Clip 2" class="cls-1" d="M0,0V17.806H17.849V0Z" transform="translate(0 0.017)"/>
+      <g id="Group_3" data-name="Group 3" class="cls-2">
+        <path id="Fill_1" data-name="Fill 1" class="cls-3" d="M12.923,17.806h-8A4.925,4.925,0,0,1,0,12.892V4.914A4.925,4.925,0,0,1,4.926,0h8a4.925,4.925,0,0,1,4.926,4.914v7.978A4.925,4.925,0,0,1,12.923,17.806Zm-8-16.226A3.342,3.342,0,0,0,1.584,4.914v7.978a3.342,3.342,0,0,0,3.342,3.335h8a3.342,3.342,0,0,0,3.343-3.335V4.914A3.342,3.342,0,0,0,12.923,1.58Z" transform="translate(0 0.017)"/>
+      </g>
+    </g>
+    <path id="Fill_4" data-name="Fill 4" class="cls-3" d="M4.6,9.175A4.588,4.588,0,1,1,9.2,4.588,4.6,4.6,0,0,1,4.6,9.175Zm0-7.6A3.008,3.008,0,1,0,7.615,4.588,3.015,3.015,0,0,0,4.6,1.579Z" transform="translate(16.325 15.359)"/>
+    <path id="Fill_6" data-name="Fill 6" class="cls-3" d="M1.161,0A1.161,1.161,0,0,0,0,1.159,1.161,1.161,0,1,0,1.983.339,1.168,1.168,0,0,0,1.161,0" transform="translate(24.555 14.019)"/>
+  </g>
+</svg>
